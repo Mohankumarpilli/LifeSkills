@@ -17,7 +17,7 @@ Rendering is a process used in web development that turns website code into the 
    - The browser calculates the size and position of everything on the page.
 
 5. **Painting**:
-   - The browser draws all the elements (like text, images, and colors) on the screen.
+   - The browser draws all the elements on the screen.
 
 6. **Compositing**:
    - The browser puts everything together to display the final webpage.
