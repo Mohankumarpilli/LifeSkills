@@ -1,6 +1,6 @@
 # Prevention of Sexual Harassment
 
-## What are the types of sexual harassment?
+## What kinds of behaviour cause sexual harassment?
 
 1. **Verbal Harassment**:  
    Saying disrespectful words to someone.  
@@ -13,12 +13,11 @@
 
 ---
 
-##  What should you do if you face or see such behavior?
+## What should you do if you face or see such behavior?
 
 ### IF I FACE IT:
-- I will tell the person to stop because I don’t like their behavior.  
-- If I cannot handle it alone, I will talk to my manager or HR.  
-- I will protect myself by taking the right steps.
+- I will tell the person to stop.
+- If I can’t handle it, I will tell my manager or HR.
 
 ### IF I SEE IT HAPPENING:
 - I will ask the victim if they need my help.  
